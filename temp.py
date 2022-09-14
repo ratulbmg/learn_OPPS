@@ -25,6 +25,6 @@ def marge(lst):
             k += 1
 
 
-arr = [1, 3, 0, 5, 4, 5, 0, 7]
+arr = [1, 3, 0, 5, 0, 4, 5, 0, 7]
 marge(arr)
 print(arr)
