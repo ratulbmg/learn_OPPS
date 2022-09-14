@@ -28,3 +28,4 @@ def marge(lst):
 arr = [1, 3, 0, 5, 8, 4, 5, 0, 7]
 marge(arr)
 print(arr)
+print("Hello")
